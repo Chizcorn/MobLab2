@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">ArtSpace</string>
+
+    <string name="next_button">Next</string>
+    <string name="previous_button">Previous</string>
+    <string name="cd_previous">Previous photo</string>
+    <string name="cd_next">Next photo</string>
+
+    <string name="title_1">Cabbit</string>
+    <string name="owner_1">Unknown</string>
+    <string name="date_1">2024</string>
+    <string name="desc_1">And god said "let there be cabbits!"</string>
+
+    <string name="title_2">Cats</string>
+    <string name="owner_2">Kaiklops</string>
+    <string name="date_2">2014</string>
+    <string name="desc_2">The photo was posted on reddit r/aww by a user u/kaiklops</string>
+
+    <string name="title_3">King in Yellow</string>
+    <string name="owner_3">Damsa_draws_stuff</string>
+    <string name="date_3">2019</string>
+    <string name="desc_3">The photo was posted on reddit r/Lovecraft by a user u/Damsa_draws_stuff</string>
+
+    <string name="title_4">Fellas</string>
+    <string name="owner_4">Chizcorn</string>
+    <string name="date_4">2026/02/05</string>
+    <string name="desc_4">The screenshot was taken by Chizcorn on 2026/02/05</string>
+</resources>
